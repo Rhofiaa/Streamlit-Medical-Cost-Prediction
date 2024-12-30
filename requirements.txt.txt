@@ -1,5 +1,0 @@
-pandas == 2.2.3
-Numpy == 2.2.1
-streamlit
-scikit-learn
-pip==24.3.1
