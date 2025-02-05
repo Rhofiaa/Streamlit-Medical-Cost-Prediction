@@ -48,7 +48,6 @@ if selected_page == "Home":
     st.image("https://cdn.prod.website-files.com/65fda7b5fdef3cef45c71e36/660a93290bfbfe052077345f_657b26b4dbfa4c1ce2120024_employee-healthcare-cost.png", caption="Insurance Dashboard", use_column_width=True)
     st.header("Welcome to the Insurance Dashboard")
     st.write("Use this app to explore insurance data and predict charges.")
-    st.write("by : Siti Rhofiah(2211102305),", "Maillafaiza Oktaviani(2211102284),", "Berliana Mahadewi(2211102279),", "Irvan Afriza S(2211102302),")
 elif selected_page == "Data Overview":
     st.header("Dataset Overview")
     st.write("Here is the first few rows of the dataset:")
